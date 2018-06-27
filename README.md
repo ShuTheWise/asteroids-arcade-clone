@@ -28,6 +28,6 @@ All tweakable game settings are available under GameObject **Settings** on Aster
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details 
 
-##Acknowledgements
+## Acknowledgements
 
 Special thanks to Unity Technologies by providing [samples](https://github.com/Unity-Technologies/EntityComponentSystemSamples).
