@@ -21,7 +21,7 @@ All tweakable game settings are available under GameObject **Settings** on Aster
 
 ## Built With
 
-**Unity version**: Unity 2018.1.5f1\
+**Unity version**: 2018.1.5f1\
 **Entities version**: 0.0.12 - preview 6
 
 ## License
